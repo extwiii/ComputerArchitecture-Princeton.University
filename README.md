@@ -2,7 +2,7 @@
 Design the computer architecture of complex modern microprocessors - Coursera
 
 #### Taught by: 
-#### 
+#### David Wentzlaff, Assistant Professor - Electrical Engineering
 
 ### Rating :full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon::new_moon:
 ### Difficulty :full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon::new_moon::new_moon:
