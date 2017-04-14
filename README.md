@@ -1,8 +1,9 @@
 # ComputerArchitecture-Princeton.University
 Design the computer architecture of complex modern microprocessors - Coursera
 
-## 1 - Introduction, Instruction Set Architecture, and Microcode
-## 1 - Pipelining Review
+## Week1
+* Introduction, Instruction Set Architecture, and Microcode
+* Pipelining Review
 ## 2 - Cache Review
 ## 2 - Superscalar 1
 ## 3 - Superscalar 2 & Exceptions
