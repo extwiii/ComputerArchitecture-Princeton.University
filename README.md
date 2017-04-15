@@ -1,4 +1,4 @@
-# ComputerArchitecture-Princeton.University
+# ComputerArchitecture-Princeton.University :white_check_mark:
 Design the computer architecture of complex modern microprocessors - Coursera
 
 ## Week1
