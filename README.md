@@ -13,19 +13,26 @@ Design the computer architecture of complex modern microprocessors - Coursera
 ## Week4
 * Superscalar 4
 * VLIW 1
-## 5 - VLIW 2
-## 5 - Branch Prediction
-## 6 - Advanced Caches 1
-## 6 - Advanced Caches 2
-## 7 - Memory Protection
-## 7 - Vector Processors and GPUs
-## 8 - Multithreading
-## 8 - Parallel Programming 1
-## 9 - Parallel Programming 2
-## 9 - Small Multiprocessors
-## 10 - Multiprocessor Interconnect 1
-## 10 - Multiprocessor Interconnect 2
-## 11 - Large Multiprocessors (Directory Protocols)
+## Week5
+* VLIW 2
+* Branch Prediction
+## Week6
+* Advanced Caches 1
+* Advanced Caches 2
+## Week7
+* Memory Protection
+* Vector Processors and GPUs
+## Week8
+* Multithreading
+* Parallel Programming 1
+## Week9
+* Parallel Programming 2
+* Small Multiprocessors
+## Week10
+* Multiprocessor Interconnect 1
+* Multiprocessor Interconnect 2
+## Week11
+* Large Multiprocessors (Directory Protocols)
 
 #### Taught by: 
 #### David Wentzlaff, Assistant Professor - Electrical Engineering
