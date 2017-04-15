@@ -45,8 +45,10 @@ Design the computer architecture of complex modern microprocessors - Coursera
 ## Week10
 * Multiprocessor Interconnect 1
 * Multiprocessor Interconnect 2
+* [Slide Deck 14](https://d396qusza40orc.cloudfront.net/comparch%2Fcomparch-002%2Flecture_slides%2FSD14_Q1bKJOqpnE.pdf)
 ## Week11
 * Large Multiprocessors (Directory Protocols)
+* [Slide Deck 15](https://d396qusza40orc.cloudfront.net/comparch%2Fcomparch-002%2Flecture_slides%2FSD15_XG566HDQou.pdf)
 
 #### Taught by: 
 #### David Wentzlaff, Assistant Professor - Electrical Engineering
