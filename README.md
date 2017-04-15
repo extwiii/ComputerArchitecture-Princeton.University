@@ -4,12 +4,15 @@ Design the computer architecture of complex modern microprocessors - Coursera
 ## Week1
 * Introduction, Instruction Set Architecture, and Microcode
 * Pipelining Review
-## 2 - Cache Review
-## 2 - Superscalar 1
-## 3 - Superscalar 2 & Exceptions
-## 3 - Superscalar 3
-## 4 - Superscalar 4
-## 4 - VLIW 1
+## Week2 
+* Cache Review
+* Superscalar 1
+## Week3
+* Superscalar 2 & Exceptions
+* Superscalar 3
+## Week4
+* Superscalar 4
+* VLIW 1
 ## 5 - VLIW 2
 ## 5 - Branch Prediction
 ## 6 - Advanced Caches 1
