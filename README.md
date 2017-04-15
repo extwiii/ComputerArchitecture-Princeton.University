@@ -37,6 +37,8 @@ Design the computer architecture of complex modern microprocessors - Coursera
 ## Week8
 * Multithreading
 * Parallel Programming 1
+* [Slide Deck 12](https://d396qusza40orc.cloudfront.net/comparch%2Fcomparch-002%2Flecture_slides%2FSD12_jOsvHfPHA8.pdf)
+* [Slide Deck 13](https://d396qusza40orc.cloudfront.net/comparch%2Fcomparch-002%2Flecture_slides%2FSD13_Es2WjeLrHf.pdf)
 ## Week9
 * Parallel Programming 2
 * Small Multiprocessors
