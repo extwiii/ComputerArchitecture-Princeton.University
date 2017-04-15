@@ -4,12 +4,18 @@ Design the computer architecture of complex modern microprocessors - Coursera
 ## Week1
 * Introduction, Instruction Set Architecture, and Microcode
 * Pipelining Review
+* [Slide Deck 1](https://d396qusza40orc.cloudfront.net/comparch%2Fcomparch-002%2Flecture_slides%2FSD1_16ijTgPupY.pdf)
+* [Slide Deck 2](https://d396qusza40orc.cloudfront.net/comparch%2Fcomparch-002%2Flecture_slides%2FSD2_XAek1vrBgk.pdf)
 ## Week2 
 * Cache Review
 * Superscalar 1
+* [Slide Deck 3](https://d396qusza40orc.cloudfront.net/comparch%2Fcomparch-002%2Flecture_slides%2FSD3_DbiWHJtBiA.pdf)
+* [Tomasulo Algorithm](http://ieeexplore.ieee.org/document/5392028/)
+* [Slide Deck 4](https://d396qusza40orc.cloudfront.net/comparch%2Fcomparch-002%2Flecture_slides%2FSD4_dqdV3aPawQ.pdf)
 ## Week3
 * Superscalar 2 & Exceptions
 * Superscalar 3
+* [Slide Deck 5](https://d396qusza40orc.cloudfront.net/comparch%2Fcomparch-002%2Flecture_slides%2FSD5_IJFP1Ym1w1.pdf)
 ## Week4
 * Superscalar 4
 * VLIW 1
